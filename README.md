@@ -1,1 +1,14 @@
-# DataCombinations
+This repository contains the data and code for the paper [Title of the Paper]. You can access the paper via the following link: [LINK XXXX].
+
+Citation: [XXXXX]
+
+Contents:
+
+DataComb_Full.csv: This file includes all the final cleaned metadata used for analysis, with each row representing a single paper. The final dataset was created by integrating, cleaning, and quantifying variables from three large-scale datasets: Altmetric data: Available free of charge to researchers at Altmetric（https://www.altmetric.com/research-access/）.
+Publication records: Extracted from OpenAlex, a publicly accessible dataset（https://docs.
+openalex.org/how-to-use-the-api/api-overview. ICPSR Data Citation: ICPSR/mica-data-descriptor](https://github.com/ICPSR/mica-data-descriptor.
+For access to raw or additional data from Altmetric or OpenAlex, please use their APIs or contact Digital Science directly.
+
+1-Result_Visualization_Main.ipynb: Contains the code to replicate the main figures and statistical analyses presented in the paper.
+
+2-QuantifyDataComb.ipynb: This notebook includes the code used to quantify the atypical combination of datasets.
