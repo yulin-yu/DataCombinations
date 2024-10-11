@@ -1,6 +1,6 @@
 This repository contains the data and code for the paper "Does the use of unusual combinations of datasets contribute to greater scientific impact?". You can access the paper via the following link: (https://www.pnas.org/doi/epub/10.1073/pnas.2402802121).
 
-Citation: [XXXXX]
+Citation: Yu, Yulin, and Daniel M. Romero. "Does the use of unusual combinations of datasets contribute to greater scientific impact?." Proceedings of the National Academy of Sciences 121.41 (2024): e2402802121.
 
 Contents:
 
